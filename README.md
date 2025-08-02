@@ -10,8 +10,14 @@ cd shecan_portal
 flutter pub get
 flutter run
 
-# Screenshots
-login page : 
+## Screenshots
+- ![Login Screen] : (screenshots/login.png)
+- ![Dashboard Screen with Logout] : (screenshots/dashboard.png)
+- ![Rewards Screen] : (screenshots/rewards.png)
+- ![Announcements Screen] : (screenshots/announcements.png)
+- ![Leaderboard Screen] : (screenshots/leaderboard.png)
+- ![Donation Page] : (screenshots/donation.png)
+- ![Impacts Page] : (screenshots/impact.png)
 
 # Author
 Mahin Fareeha (mahinhaquani@gmail.com)
