@@ -10,6 +10,8 @@ cd shecan_portal
 flutter pub get
 flutter run
 
+# Screenshots
+login page : 
 
 # Author
 Mahin Fareeha (mahinhaquani@gmail.com)
